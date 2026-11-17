@@ -1,4 +1,4 @@
-import 'package:curug/screens/user/welcome_screen.dart';
+import 'package:curug/ui/user/welcome_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {

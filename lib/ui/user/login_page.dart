@@ -1,6 +1,5 @@
 // import 'package:curug/user/lupa_sandi.dart';
-import 'package:curug/screens/user/lupa_sandi.dart';
-import 'package:curug/screens/user/p.dart';
+import 'package:curug/ui/user/lupa_sandi.dart';
 import 'package:flutter/material.dart';
 
 class LoginScreen extends StatefulWidget {

@@ -1,4 +1,4 @@
-import 'package:curug/screens/user/sandi_baru.dart';
+import 'package:curug/ui/user/sandi_baru.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 

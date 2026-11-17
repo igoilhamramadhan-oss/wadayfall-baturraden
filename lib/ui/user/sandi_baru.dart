@@ -1,4 +1,4 @@
-import 'package:curug/screens/user/login_screen.dart';
+import 'package:curug/ui/user/login_page.dart';
 import 'package:flutter/material.dart';
 
 class SandiBaru extends StatefulWidget {

@@ -1,4 +1,5 @@
-import 'package:curug/screens/user/login_screen.dart';
+import 'package:curug/ui/user/login_page.dart';
+import 'package:curug/ui/user/daftarAkun_page.dart';
 import 'package:flutter/material.dart';
 
 // import 'package:google_fonts/google_fonts.dart';
@@ -170,7 +171,7 @@ class WelcomeScreen extends StatelessWidget {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                          builder: (context) => const LoginScreen(),
+                          builder: (context) => const DaftarAkun(),
                         ),
                       );
                     },
